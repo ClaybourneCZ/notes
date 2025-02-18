@@ -5,6 +5,7 @@
 ### Program for disk management
  
 > diskpart
+
 By entering this command, a new window will popup, where you will be able to run other commands for disk management
 
 ### Mediums 
