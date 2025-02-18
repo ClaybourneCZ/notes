@@ -10,7 +10,9 @@ By entering this command, a new window will popup, where you will be able to run
 ### Mediums 
 
 > list disk
+
 > select disk X
+
 > clean
 
 These 3 are pretty self explainatory, but first one lists medium and second one selects it for use, like in databases, the last one CLEANS the whole disk, wipes all the information.
@@ -18,7 +20,9 @@ These 3 are pretty self explainatory, but first one lists medium and second one 
 ### Reformating the disk
 
 > create partition primary
+
 > format fs=fat32 quick
+
 > assign
 
 Firstly we create new primary "node", than we select file system, last one will name it like "E:"    
@@ -27,10 +31,19 @@ Firstly we create new primary "node", than we select file system, last one will 
 ## Commands
 
 `diskpart`
+
 `list disk`
+
 `select disk X`
+
 `clean`
+
 `create partition primary`
+
 `format fs=fat32 quick`
+
 `assign`
+
 `exit`
+
+
